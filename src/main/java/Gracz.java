@@ -1,0 +1,3 @@
+enum Gracz {
+    GRACZ, KOMPUTER
+}
